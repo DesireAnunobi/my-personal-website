@@ -137,10 +137,16 @@ header nav ul li {
   height: 540px;
 }
 
+#page-section5 {
+  height: 750px;
+}
+
 #contact img {
   max-height: 470px;
   max-width: 630px;
 }
+
+
 
 .page-section img {
   max-height: 300px;
