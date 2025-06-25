@@ -119,6 +119,7 @@ header nav ul li {
 
 #page-section1 {
   height: 170px;
+  background-image: url(../assets/images/02-hero-bg.jpg); width: 100%;
 }
 
 #page-section2 {
